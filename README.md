@@ -1,1 +1,1 @@
-A cat that appears and disappears at the press of a button.
+Now you see the cat. Now you don't. 
