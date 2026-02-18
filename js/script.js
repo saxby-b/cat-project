@@ -9,8 +9,8 @@ button.addEventListener("click", function () {
         button.innerText = "Wait, come back!";
         button.classList.add("disappear");
     } else {
-       cat.classList.add("show");
-       button.innerText = "Please go away cat";
-       button.classList.remove("disappear");
+        cat.classList.add("show");
+        button.innerText = "Please go away cat";
+        button.classList.remove("disappear");
     }
 })
